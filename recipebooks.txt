@@ -1,0 +1,6 @@
+recipe new:butter chicken
+ingredience
+chicken 1kg
+chillie powder 10kg
+pepper
+salt 2 tabelspoon
